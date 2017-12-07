@@ -17,21 +17,21 @@ to run front end type ng serve-o and will auto open in default browser (tested i
 
 ## Built With
 
-JavaScript
-Angular
-TypeScript
-RXJS
-codelyzer
-JSON web token
-Karma
-Express
-Node
-bcrypt
+JavaScript,
+Angular,
+TypeScript,
+RXJS,
+codelyzer,
+JSON web token,
+Karma,
+Express,
+Node,
+bcrypt,
 body-parser
 
 ## Authors
 
-**Steven Snyder,**
+**Steven Snyder**
 
 ## License
 
