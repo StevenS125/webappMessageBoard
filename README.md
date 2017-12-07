@@ -1,4 +1,4 @@
-#Message Board Application 
+# Message Board Application 
 This application allows users to post and send messages and will be used to be built into a cards against humanity digital application for the communications section 
 
 
